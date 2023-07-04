@@ -1,0 +1,16 @@
+body{
+    background-color:azure;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+#all{
+    margin-right:30px;
+}
+#buttons{
+    margin-left: 400px;
+}
+#searchInput{
+    width: 200px;
+}
